@@ -34,8 +34,8 @@ Before coming to Indiana, he studied at the London School of Economics and Hamli
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
-          <li><a href="https://github.com/dmuck">GitHub</a></li>
+          <li><a href="https://polisci.indiana.edu/">IU Political Science</a></li>
+          <li><a href="https://github.com/dmuck">GitHub (@dmuck)</a></li>
           <li><a href="https://twitter.com/muckdjm">Twitter (@muckdjm)</a></li>
       </ul>
   </div>
