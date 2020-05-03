@@ -5,11 +5,13 @@ description: Dan Muck is a PhD student at Indiana University Bloomington.
 keywords: muck, political science, indiana university 
 ---
 
-Dan Muck is a PhD student in Political Science at Indiana University Bloomington. His research interests include political economy, authoritarianism and democratization, and post-communist politics. His dissertation research focuses on property rights institutions in nondemocratic settings.  
+Dan Muck is a PhD student in Political Science at Indiana University Bloomington. His research interests include political economy, authoritarianism and democratization, and post-communist politics. 
+
+His dissertation research focuses on property rights institutions in nondemocratic settings.  
 
 For the 2020-2021 academic year, Dan is a Fellow at Indiana University's Ostrom Workshop. 
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+Before coming to Indiana University, he studied at the London School of Economics and Hamline University. He is originally from St. Paul, Minnesota. 
 
 
 ---
@@ -20,8 +22,7 @@ For the 2020-2021 academic year, Dan is a Fellow at Indiana University's Ostrom 
 
     <div class="row-fluid">
         <div class="span5">
-            Dan Muck<br/>
-            Email: dmuck@indiana.edu<br/>
+            Reach Dan at: dmuck [at] indiana [dot] edu.<br/>
         </div>
 
         <div class="span2">
