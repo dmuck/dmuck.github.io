@@ -20,7 +20,7 @@ Before coming to Indiana, he studied at the London School of Economics and Hamli
 
     <div class="row-fluid">
         <div class="span5">
-            reach him via dmuck [at] indiana [dot] edu<br/>
+            reach him via email: dmuck [at] indiana [dot] edu<br/>
         </div>
 
         <div class="span2">
