@@ -6,10 +6,11 @@ description: dan's research
 
 
 
-#### <u>update coming soon</u>
-*description*
+#### <u>page under construction</u>
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+<!-- *description* -->
+
+<!-- [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf) -->
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
