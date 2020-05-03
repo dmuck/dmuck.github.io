@@ -35,7 +35,7 @@ Dan Muck is a PhD student in Political Science at Indiana University Bloomington
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/dmuck">GitHub</a></li>
-          <li><a href="https://twitter.com/muckdjm">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://twitter.com/muckdjm">Twitter (@muckdjm)</a></li>
       </ul>
   </div>
 </div>
