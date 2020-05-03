@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Daniel J Muck 
+title: Daniel James Muck 
 description: Dan Muck is a PhD student at Indiana University Bloomington. 
 keywords: muck, political science, indiana university 
 ---
